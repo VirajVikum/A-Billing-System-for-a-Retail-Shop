@@ -1,0 +1,63 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\POS System\POS System\bin\Debug\POS System.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\POS System\POS System\bin\Debug\POS System.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\POS System\POS System\obj\x86\Debug\POS System.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\POS System\POS System\obj\x86\Debug\POS_System.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\POS System\POS System\obj\x86\Debug\POS System.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\POS System\POS System\obj\x86\Debug\POS System.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\POS System\POS System\obj\x86\Debug\POS System.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\POS System\POS System\obj\x86\Debug\POS_System.Addproducts.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\POS System\POS System\obj\x86\Debug\POS_System.AddSuppliers.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\POS System\POS System\obj\x86\Debug\POS_System.AddCustomers.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\POS System\POS System\obj\x86\Debug\POS_System.ViewProducts.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\POS System\POS System\obj\x86\Debug\POS_System.ViewSuppliers.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\POS System\POS System\obj\x86\Debug\POS_System.MainMenu.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\POS System\POS System\obj\x86\Debug\POS_System.ViewCustomers.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\POS System\POS System\obj\x86\Debug\POS_System.Login.resources
+D:\Project\POS System\POS System\obj\x86\Debug\POS System.exe
+D:\Project\POS System\POS System\obj\x86\Debug\POS System.pdb
+D:\Project\POS System\POS System\bin\Debug\POS System.exe
+D:\Project\POS System\POS System\bin\Debug\POS System.pdb
+D:\Project\POS System\POS System\obj\x86\Debug\POS System.csprojResolveAssemblyReference.cache
+D:\Project\POS System\POS System\obj\x86\Debug\POS_System.AddCustomers.resources
+D:\Project\POS System\POS System\obj\x86\Debug\POS_System.Addproducts.resources
+D:\Project\POS System\POS System\obj\x86\Debug\POS_System.AddSuppliers.resources
+D:\Project\POS System\POS System\obj\x86\Debug\POS_System.Login.resources
+D:\Project\POS System\POS System\obj\x86\Debug\POS_System.MainMenu.resources
+D:\Project\POS System\POS System\obj\x86\Debug\POS_System.Properties.Resources.resources
+D:\Project\POS System\POS System\obj\x86\Debug\POS_System.ViewCustomers.resources
+D:\Project\POS System\POS System\obj\x86\Debug\POS_System.ViewProducts.resources
+D:\Project\POS System\POS System\obj\x86\Debug\POS_System.ViewSuppliers.resources
+D:\Project\POS System\POS System\obj\x86\Debug\POS System.csproj.GenerateResource.Cache
+D:\Project\POS System\POS System\obj\x86\Debug\POS_System.MBox.resources
+D:\Project\POS System ORG\POS System\obj\x86\Debug\POS System.exe
+D:\Project\POS System ORG\POS System\obj\x86\Debug\POS System.pdb
+D:\Project\POS System ORG\POS System\bin\Debug\POS System.exe
+D:\Project\POS System ORG\POS System\bin\Debug\POS System.pdb
+D:\Project\POS System ORG\POS System\obj\x86\Debug\POS System.csprojResolveAssemblyReference.cache
+D:\Project\POS System ORG\POS System\obj\x86\Debug\POS_System.AddCustomers.resources
+D:\Project\POS System ORG\POS System\obj\x86\Debug\POS_System.Addproducts.resources
+D:\Project\POS System ORG\POS System\obj\x86\Debug\POS_System.AddSuppliers.resources
+D:\Project\POS System ORG\POS System\obj\x86\Debug\POS_System.Login.resources
+D:\Project\POS System ORG\POS System\obj\x86\Debug\POS_System.MainMenu.resources
+D:\Project\POS System ORG\POS System\obj\x86\Debug\POS_System.MBox.resources
+D:\Project\POS System ORG\POS System\obj\x86\Debug\POS_System.Properties.Resources.resources
+D:\Project\POS System ORG\POS System\obj\x86\Debug\POS_System.ViewCustomers.resources
+D:\Project\POS System ORG\POS System\obj\x86\Debug\POS_System.ViewProducts.resources
+D:\Project\POS System ORG\POS System\obj\x86\Debug\POS_System.ViewSuppliers.resources
+D:\Project\POS System ORG\POS System\obj\x86\Debug\POS System.csproj.GenerateResource.Cache
+D:\Project\Updated\POS System 5-28\POS System\obj\x86\Debug\POS System.exe
+D:\Project\Updated\POS System 5-28\POS System\obj\x86\Debug\POS System.pdb
+D:\Project\Updated\POS System 5-28\POS System\bin\Debug\POS System.exe
+D:\Project\Updated\POS System 5-28\POS System\bin\Debug\POS System.pdb
+D:\Project\Updated\POS System 5-28\POS System\obj\x86\Debug\POS System.csprojResolveAssemblyReference.cache
+D:\Project\Updated\POS System 5-28\POS System\obj\x86\Debug\POS_System.AddCustomers.resources
+D:\Project\Updated\POS System 5-28\POS System\obj\x86\Debug\POS_System.Addproducts.resources
+D:\Project\Updated\POS System 5-28\POS System\obj\x86\Debug\POS_System.AddSuppliers.resources
+D:\Project\Updated\POS System 5-28\POS System\obj\x86\Debug\POS_System.Login.resources
+D:\Project\Updated\POS System 5-28\POS System\obj\x86\Debug\POS_System.MainMenu.resources
+D:\Project\Updated\POS System 5-28\POS System\obj\x86\Debug\POS_System.MBox.resources
+D:\Project\Updated\POS System 5-28\POS System\obj\x86\Debug\POS_System.Properties.Resources.resources
+D:\Project\Updated\POS System 5-28\POS System\obj\x86\Debug\POS_System.ViewCustomers.resources
+D:\Project\Updated\POS System 5-28\POS System\obj\x86\Debug\POS_System.ViewProducts.resources
+D:\Project\Updated\POS System 5-28\POS System\obj\x86\Debug\POS_System.ViewSuppliers.resources
+D:\Project\Updated\POS System 5-28\POS System\obj\x86\Debug\POS System.csproj.GenerateResource.Cache
